@@ -1,4 +1,4 @@
 # MyProject
 This is my first Git repository.
 <br>
-By-Shreel Gandhi
+By-Shreel Gandhi(S)
